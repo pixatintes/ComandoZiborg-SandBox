@@ -1,8 +1,13 @@
-2025/03/02-10:47:59.496246 f558250ae0a0 Recovering log #54
-2025/03/02-10:47:59.502822 f558250ae0a0 Delete type=3 #46
-2025/03/02-10:47:59.502853 f558250ae0a0 Delete type=0 #54
-2025/03/02-10:48:15.229123 f55816dde0a0 Level-0 table #61: started
-2025/03/02-10:48:15.229135 f55816dde0a0 Level-0 table #61: 0 bytes OK
-2025/03/02-10:48:15.231777 f55816dde0a0 Delete type=0 #59
-2025/03/02-10:48:15.236027 f55816dde0a0 Manual compaction at level-0 from '!fog!5dk4Ag1eukht7Y06' @ 72057594037927935 : 1 .. '!fog!tfaJeC8mGrrhK17P' @ 0 : 0; will stop at (end)
-2025/03/02-10:48:15.238206 f55816dde0a0 Manual compaction at level-1 from '!fog!5dk4Ag1eukht7Y06' @ 72057594037927935 : 1 .. '!fog!tfaJeC8mGrrhK17P' @ 0 : 0; will stop at (end)
+2025/03/03-11:36:31.235028 fa000efdf0a0 Recovering log #63
+2025/03/03-11:36:31.235054 fa000efdf0a0 Level-0 table #65: started
+2025/03/03-11:36:31.237023 fa000efdf0a0 Level-0 table #65: 430 bytes OK
+2025/03/03-11:36:31.241942 fa000efdf0a0 Delete type=0 #15
+2025/03/03-11:36:31.241961 fa000efdf0a0 Delete type=3 #20
+2025/03/03-11:36:31.241974 fa000efdf0a0 Delete type=3 #62
+2025/03/03-11:36:31.241985 fa000efdf0a0 Delete type=0 #21
+2025/03/03-11:36:31.241994 fa000efdf0a0 Delete type=0 #63
+2025/03/03-11:36:31.242005 fa000efdf0a0 Delete type=3 #14
+2025/03/03-14:27:22.838129 fa000cf9f0a0 Level-0 table #68: started
+2025/03/03-14:27:22.838150 fa000cf9f0a0 Level-0 table #68: 0 bytes OK
+2025/03/03-14:27:22.840263 fa000cf9f0a0 Delete type=0 #66
+2025/03/03-14:27:22.849988 fa000cf9f0a0 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

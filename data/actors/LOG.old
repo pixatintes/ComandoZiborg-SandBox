@@ -1,8 +1,34 @@
-2025/03/02-10:47:59.451268 f5582489e0a0 Recovering log #98
-2025/03/02-10:47:59.457380 f5582489e0a0 Delete type=0 #98
-2025/03/02-10:47:59.457403 f5582489e0a0 Delete type=3 #83
-2025/03/02-10:48:15.220690 f55816dde0a0 Level-0 table #105: started
-2025/03/02-10:48:15.220712 f55816dde0a0 Level-0 table #105: 0 bytes OK
-2025/03/02-10:48:15.222794 f55816dde0a0 Delete type=0 #103
-2025/03/02-10:48:15.229020 f55816dde0a0 Manual compaction at level-0 from '!actors!0EniFt83NDRfqIL4' @ 72057594037927935 : 1 .. '!actors!zoJVLVGiWFYZ9D9N' @ 0 : 0; will stop at (end)
-2025/03/02-10:48:15.233933 f55816dde0a0 Manual compaction at level-1 from '!actors!0EniFt83NDRfqIL4' @ 72057594037927935 : 1 .. '!actors!zoJVLVGiWFYZ9D9N' @ 0 : 0; will stop at (end)
+2025/03/03-11:36:31.115430 fa000d7af0a0 Recovering log #107
+2025/03/03-11:36:31.117300 fa000d7af0a0 Level-0 table #109: started
+2025/03/03-11:36:31.144629 fa000d7af0a0 Level-0 table #109: 320912 bytes OK
+2025/03/03-11:36:31.149294 fa000d7af0a0 Delete type=2 #31
+2025/03/03-11:36:31.149347 fa000d7af0a0 Delete type=3 #32
+2025/03/03-11:36:31.149360 fa000d7af0a0 Delete type=0 #107
+2025/03/03-11:36:31.149625 fa000d7af0a0 Delete type=0 #33
+2025/03/03-11:36:31.150271 fa000d7af0a0 Delete type=3 #21
+2025/03/03-11:36:31.150287 fa000d7af0a0 Delete type=2 #16
+2025/03/03-11:36:31.150317 fa000d7af0a0 Delete type=3 #106
+2025/03/03-11:36:31.150328 fa000d7af0a0 Delete type=0 #22
+2025/03/03-12:06:25.549081 fa000cf9f0a0 Level-0 table #112: started
+2025/03/03-12:06:25.565142 fa000cf9f0a0 Level-0 table #112: 959226 bytes OK
+2025/03/03-12:06:25.566868 fa000cf9f0a0 Delete type=0 #110
+2025/03/03-14:27:22.775090 fa000cf9f0a0 Level-0 table #114: started
+2025/03/03-14:27:22.785796 fa000cf9f0a0 Level-0 table #114: 735161 bytes OK
+2025/03/03-14:27:22.787393 fa000cf9f0a0 Delete type=0 #111
+2025/03/03-14:27:22.799924 fa000cf9f0a0 Manual compaction at level-0 from '!actors!0EniFt83NDRfqIL4' @ 72057594037927935 : 1 .. '!actors!zoJVLVGiWFYZ9D9N' @ 0 : 0; will stop at '!actors!tqJUQGz2dcB73eFR' @ 1980 : 1
+2025/03/03-14:27:22.799931 fa000cf9f0a0 Compacting 3@0 + 0@1 files
+2025/03/03-14:27:22.809419 fa000cf9f0a0 Generated table #115@0: 23 keys, 247247 bytes
+2025/03/03-14:27:22.809430 fa000cf9f0a0 Compacted 3@0 + 0@1 files => 247247 bytes
+2025/03/03-14:27:22.811131 fa000cf9f0a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/03-14:27:22.811315 fa000cf9f0a0 Delete type=2 #112
+2025/03/03-14:27:22.811574 fa000cf9f0a0 Delete type=2 #109
+2025/03/03-14:27:22.811741 fa000cf9f0a0 Delete type=2 #114
+2025/03/03-14:27:22.818072 fa000cf9f0a0 Manual compaction at level-0 from '!actors!tqJUQGz2dcB73eFR' @ 1980 : 1 .. '!actors!zoJVLVGiWFYZ9D9N' @ 0 : 0; will stop at (end)
+2025/03/03-14:27:22.824370 fa000cf9f0a0 Manual compaction at level-1 from '!actors!0EniFt83NDRfqIL4' @ 72057594037927935 : 1 .. '!actors!zoJVLVGiWFYZ9D9N' @ 0 : 0; will stop at '!actors!zoJVLVGiWFYZ9D9N' @ 1943 : 1
+2025/03/03-14:27:22.824376 fa000cf9f0a0 Compacting 1@1 + 1@2 files
+2025/03/03-14:27:22.830089 fa000cf9f0a0 Generated table #116@1: 23 keys, 247247 bytes
+2025/03/03-14:27:22.830098 fa000cf9f0a0 Compacted 1@1 + 1@2 files => 247247 bytes
+2025/03/03-14:27:22.831557 fa000cf9f0a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/03-14:27:22.831629 fa000cf9f0a0 Delete type=2 #115
+2025/03/03-14:27:22.831723 fa000cf9f0a0 Delete type=2 #101
+2025/03/03-14:27:22.838006 fa000cf9f0a0 Manual compaction at level-1 from '!actors!zoJVLVGiWFYZ9D9N' @ 1943 : 1 .. '!actors!zoJVLVGiWFYZ9D9N' @ 0 : 0; will stop at (end)
